@@ -2,7 +2,7 @@
 
 > Delivery Logistics, Geographic Distance, and Customer Satisfaction in Brazilian E-Commerce: A Data-Driven Analysis of the Olist Marketplace.
 >
-> **MSc Business Analytics, University of Exeter 2025**
+> **MSc Business Analytics (BEMM466), University of Exeter · Supervisor: Dr Lina Zhang · 2025**
 
 ---
 
